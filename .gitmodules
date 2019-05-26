@@ -1,0 +1,3 @@
+[submodule "test/testsub2"]
+	path = test/testsub2
+	url = git@github.com:tamnil/testsub2.git
