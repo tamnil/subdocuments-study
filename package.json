@@ -1,0 +1,19 @@
+{
+  "name": "subdocuments-study",
+  "version": "0.0.1",
+  "description": "Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamnil/subdocuments-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamnil/subdocuments-study/issues"
+  },
+  "homepage": "https://github.com/tamnil/subdocuments-study#readme"
+}
